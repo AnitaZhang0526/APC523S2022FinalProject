@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Outputs
-.jpg
-.gif
-.mp4
+*.jpg
+*.gif
+*.mp4
