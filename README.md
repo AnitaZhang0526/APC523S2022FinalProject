@@ -9,9 +9,10 @@ File Descriptions:
 2D_multigrid_diffusion.py
 Python file/notebook 
 
-Final.sh
+final.sh
 Shell script to run the .py 
 
+To run the program, simply ```cd APC523S2022FinalProject``` and then call ```./final.sh```
 
 By changing parameters (g.q in particular) in the function “update force” the forcing terms can be adjusted, and it is worth looking at how forcing affects diffusion as well. 
 
