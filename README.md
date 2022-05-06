@@ -12,7 +12,17 @@ Python file/notebook
 Final.sh
 Shell script to run the .py 
 
+
 By changing parameters (g.q in particular) in the function “update force” the forcing terms can be adjusted, and it is worth looking at how forcing affects diffusion as well. 
 
 Feel free to let any of us know if you have any questions.
 Anita Zhang (anitazhang@princeton.edu), Christine Blackshaw (cb9072@princeton.edu), Vladislav Sevostianov (vs14@princeton.edu) 
+
+For our project submission, the following files are included:
+1) powerpoint
+2) pdf write up
+3) .py file of the code
+4) .ipynb files of the code (in case that is easier to use)
+5) .sh shell script to run the .py files
+6) this README
+7) a couple mp4 videos which show example output
