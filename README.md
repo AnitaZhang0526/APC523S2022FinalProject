@@ -5,12 +5,11 @@ README
 This program simulates fluid diffusion through porous media. 3 different boundary conditions and 3 different initial starting spots are possible. Constants and materials parameters can be slightly tweaked as well. Comments throughout the code should explain most of the important functionality. The end output is an animation file, which can be downloaded and viewed with any media player (mp4 file). We recommend using the “rigid” boundary conditions (this is the default) with initial origins “edge”, “center point” or “edge point” and comparing the behavior across the 3 starting spots. 
 
 File Descriptions:
+| File Name  | Purpose |
+| ------------- | ------------- |
+| 2D_multigrid_diffusion.py/.ipynb  | Python file/notebook that can be run in Jupyter Notebook  |
+| final.sh                          | Shell script to run the .py in Adroit (with APC523 environment)  |
 
-2D_multigrid_diffusion.py
-Python file/notebook 
-
-final.sh
-Shell script to run the .py 
 
 To run the program, simply ```cd APC523S2022FinalProject``` and then call ```./final.sh```
 
