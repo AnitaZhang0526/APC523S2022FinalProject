@@ -19,7 +19,7 @@ Feel free to let any of us know if you have any questions.
 Anita Zhang (anitazhang@princeton.edu), Christine Blackshaw (cb9072@princeton.edu), Vladislav Sevostianov (vs14@princeton.edu) 
 
 For our project submission, the following files are included:
-1) powerpoint
+1) powerpoint (animated images can be viewed in presentation mode)
 2) pdf write up
 3) .py file of the code
 4) .ipynb files of the code (in case that is easier to use)
